@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741c7"
+  },
+  "trail": "Nad Morskie Oko z Palenicy Bialczanskiej",
+  "difficulty": "brak",
+  "distance": "9,3 km",
+  "duration": "2h",
+  "details": "2c019d6435ee94f86d80476569bc8b27a6a311c5a7944f457f72023cd8716683"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741c8"
+  },
+  "trail": "Nad Czarny Staw pod Rysami",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "2,0 km",
+  "duration": "45'",
+  "details": "40e3a11eed1c034f7b84f6c786a71845ee8e76d377c2e48d714497dc6e3a3cc6"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741c9"
+  },
+  "trail": "Na Mieguszowiecka Przelecz pod Chlopkiem",
+  "difficulty": "http://natatry.pl/images/inne/stars4.png",
+  "distance": "4,0 km",
+  "duration": "2h 10'",
+  "details": "9bc892e89899a38d20595036b6d28aac1973a4db1fab4838b280f080f8cf9ccd"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741ca"
+  },
+  "trail": "Na Rysy",
+  "difficulty": "http://natatry.pl/images/inne/stars3.png",
+  "distance": "5,0 km",
+  "duration": "3h 50'",
+  "details": "21855b89808debb1684f2caf1dd0b8381821179cfe2e674131c4475d0eb08a2f"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741cb"
+  },
+  "trail": "Na Wrota Chalubinskeigo",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "3,5 km",
+  "duration": "1h 50'",
+  "details": "a1552ade8825fea1129ec71a125da51d3852c4c9fd2a64bb52103d683e1407b1"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741cc"
+  },
+  "trail": "Na Szpiglasowa Przelecz i Szpiglasowy Wierch",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "4,2 km",
+  "duration": "2h 30'",
+  "details": "5fce7ab3664890255411e032f83fd9d7a2bee677d939c46804ac0f019a7a9293"
+}]

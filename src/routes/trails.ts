@@ -1,8 +1,8 @@
 import { Elysia } from "elysia";
-import TrailService from "../loader/TrailLoader";
-import TrailServiceImpl from "../loader/TrialServiceImpl";
+import TrailService from "../service/TrailLoader";
+import TrailServiceImpl from "../service/TrialServiceImpl";
 
-const trailService: TrailService = TrailServiceImpl.getInstance();
+const trailService: TrailServiceImpl = new TrailServiceImpl();
 
 const trails = () => new Elysia({ prefix: '/trail' })
         .get('/list', () => trailService.getAll())

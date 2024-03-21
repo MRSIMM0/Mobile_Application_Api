@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b4"
+  },
+  "trail": "Grania od Starorobocianskiego Wierchu do Wolowca",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "5,5 km",
+  "duration": "2h 45'",
+  "details": "c7b7be25b6808ca0382e4bcbee4fb566fc5dde60a5b1e9080ff7543ea0a44d93"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b5"
+  },
+  "trail": "Na Grzesia, Rakon i Wolowiec z Polany Chocholowskiej",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "7,2 km",
+  "duration": "2h 45'",
+  "details": "8af7a24b220e8229f9461cbbcfac3b3fed11977ea21df88163d10caa437ee917"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b6"
+  },
+  "trail": "Na Zawracie z Polany Chocholowskiej",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "7,2 km",
+  "duration": "2h 10'",
+  "details": "6e37776516be5604209d1091e575868224a90f4dcd9ee8080c9eddb77579482f"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b7"
+  },
+  "trail": "Na Przelecz Bobrowiecka z Polany Chocholowskiej",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "1,5 km",
+  "duration": "50'",
+  "details": "bc36234fa627aa8d05565123377f5501753a1556e4785502d50619ff3e892a6f"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b8"
+  },
+  "trail": "Na Trzydniowianski Wierch i Konczysty Wierch z Polany Chocholowskiej",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "6,8 km",
+  "duration": "2h 45'",
+  "details": "5b8dd616565fb4c5078b1f0d0f9cca43c12c9816cdff55a7b066d58d8da6bdfe"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b9"
+  },
+  "trail": "Na Siwa Przelecz przez Iwaniacka Przelecz",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "12,0 km",
+  "duration": "3h 45'",
+  "details": "15c28757028f80d4f88b3d5fdb739f9749e985dde9144a1ae2f19f2492d40191"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741ba"
+  },
+  "trail": "Na Trzydniowianski Wierch i Konczysty Wierch z Polany Trzydniowki",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "4,8 km",
+  "duration": "2h 30'",
+  "details": "0700644fdb0a264dcec3d3bdf693b24be529f536b3235dabf49e2506677b5085"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741bb"
+  },
+  "trail": "Na Starorobocianski Wierch z Siwej Polany przez Siwa Przelecz",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "12,5 km",
+  "duration": "4h 15'",
+  "details": "7dc91e2a6e49073c5980601fdb5284560b8aea66adf4fcd936e99ff0a1deb3a4"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741bc"
+  },
+  "trail": "Na Hale Ornak z Polany Chocholowskiej",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "7,7 km",
+  "duration": "2h 25'",
+  "details": "908d854380fac23e7c587946411d66c301fcb29961592881db88082cfb3e5f9e"
+}]

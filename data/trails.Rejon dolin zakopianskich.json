@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a4"
+  },
+  "trail": "Sciezka nad Reglami",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "16,0 km",
+  "duration": "5h 45'",
+  "details": "9f56f3963e879a019f366cd5a8b96caab654aba54a5f4726312f9b4c04222d63"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a5"
+  },
+  "trail": "Droga pod Reglami",
+  "difficulty": "brak",
+  "distance": "12,5 km",
+  "duration": "3h",
+  "details": "51259dff32d5a5088ba2dab75c2458f9d142caa2e28c274b348549b4768f2e3a"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a6"
+  },
+  "trail": "Przez Doline Bialego",
+  "difficulty": "brak",
+  "distance": "3,0 km",
+  "duration": "1h",
+  "details": "4e844155daf15fd5bee683928ef2a135795938f500d16c87e4647f6eca994bb0"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a7"
+  },
+  "trail": "Do Jaskini Dziury przez Doline ku Dziurze",
+  "difficulty": "brak",
+  "distance": "1,5 km",
+  "duration": "25'",
+  "details": "d1c936e86fcbfad5dd5086251212275e3066bd37c917b499fd36eb293eab9181"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a8"
+  },
+  "trail": "Przez Doline Lejowa",
+  "difficulty": "brak",
+  "distance": "4,0 km",
+  "duration": "1h 10'",
+  "details": "6393b9e0d2a64d5280aaec5fef20070445d3467a2d9bf80783c2269e3ca86b27"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a9"
+  },
+  "trail": "Przez Doline za Bramka",
+  "difficulty": "brak",
+  "distance": "1,0 km",
+  "duration": "20'",
+  "details": "45d29be1cfcae0713b46bf2dd111d3b4293d3c89f8f676007170b11a61a137d2"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741aa"
+  },
+  "trail": "Na Sarnia Skale z Czerwonej Przeleczy",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "0,5 km",
+  "duration": "10'",
+  "details": "743853e61df3e0e14dd68e42ac187b457c5c5ec4c7ab69c855fa8d674844d46f"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741ab"
+  },
+  "trail": "Na Gubalowke i Butorowy Wierch z Zakopanego",
+  "difficulty": "brak",
+  "distance": "4,2 km",
+  "duration": "1h",
+  "details": "d422ed664a1edf2bfd0d678f53c5c89cf819321481b2c65d6b4a316d711c1733"
+}]

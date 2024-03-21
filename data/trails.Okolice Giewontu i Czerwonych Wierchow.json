@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f04327419c"
+  },
+  "trail": "Czerwone Wierchy",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "2,8 km",
+  "duration": "2h 30'",
+  "details": "fb612289f87f173434e132082fbcf69e0bfedce2bfd4a78aeb20cd7895f0ba52"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f04327419d"
+  },
+  "trail": "Na Giewont przez Doline Strazyska",
+  "difficulty": "http://natatry.pl/images/inne/stars3.png",
+  "distance": "6,7 km",
+  "duration": "3h 15'",
+  "details": "2e09ca3eef2b9fe34c6ae1b61ccc15dcdeba29d5aa023dd979ebcca83d243646"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f04327419e"
+  },
+  "trail": "Na Giewont z Kuznic",
+  "difficulty": "http://natatry.pl/images/inne/stars3.png",
+  "distance": "6,5 km",
+  "duration": "3h 15'",
+  "details": "ed5960b0a00fe03e19e922c52bb8482481094c1e77d802c5ab28797bfca8b5c4"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f04327419f"
+  },
+  "trail": "Na Kasprowy Wierch z Kuznic",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "7,5 km",
+  "duration": "2h 30'",
+  "details": "46c4b87b9c36c8fe6417f00a23bdf07977791b009dbc9be9bd7ddd84485e8658"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a0"
+  },
+  "trail": "Na Kasprowy Wierch z Kopy Kondrackiej",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "4,2 km",
+  "duration": "1h 55'",
+  "details": "ae49da05205fa3b9de4ca18da0c59fefbf89035a68e5c1914a24d1b6556e9436"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a1"
+  },
+  "trail": "Na Kope Kondracka przez Przelecz pod Kopa Kondracka",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "3,7 km",
+  "duration": "1h 35'",
+  "details": "e90c143855ca53f6598e93108f2216bb7618f14471ade018896d3984163ef295"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a2"
+  },
+  "trail": "Na Giewont przez Doline Malej Laki",
+  "difficulty": "http://natatry.pl/images/inne/stars3.png",
+  "distance": "7,0 km",
+  "duration": "2h 45'",
+  "details": "d9c85e2abcd4202850d5e6dcef1008405d1b4e8c31126f048c26d9d5476e32f0"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741a3"
+  },
+  "trail": "Na Malolaczniak przez Przyslop Mietusi",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "7,5 km",
+  "duration": "3h 15'",
+  "details": "7508d9c6cf8fc7e0540139b89bfef5f930ba2c1953a34e212c0a5416fa44787d"
+}]

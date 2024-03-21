@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741ac"
+  },
+  "trail": "Na Hale Stoly",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "4,3 km",
+  "duration": "1h 20'",
+  "details": "93a4f48d1c7c24f052a54dae2b0f42f10cbbf58945eb4352b5aeca80041ef88a"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741ad"
+  },
+  "trail": "Na Starorobocianski Wierch z Hali Ornak przez grzbiet Ornaku",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "9,0 km",
+  "duration": "3h 45'",
+  "details": "d0f1211f4ea4c34d70a2bef5fac171bc224eec648bdabcfb8b040e307f02d699"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741ae"
+  },
+  "trail": "Na Czerwone Wierchy (Ciemniak) przez Uplazianska Kopke",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "6,3 km",
+  "duration": "3h 15'",
+  "details": "a3f96efb8d8c4c140917e6abd91588cbac21c98c1fe3900c473553e5ad31b5a9"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741af"
+  },
+  "trail": "Nad Smreczynski Staw z Hali Ornak",
+  "difficulty": "brak",
+  "distance": "1,5 km",
+  "duration": "30'",
+  "details": "f77fe994c4666e25356fae193cb7f274aaeefb7cc0177067233f0efb29f7428d"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b0"
+  },
+  "trail": "Przez Doline Koscieliska",
+  "difficulty": "brak",
+  "distance": "6,0 km",
+  "duration": "1h 30'",
+  "details": "646ece463738ccbe43d8198de930727438c11b714127cd093fa346fdb382fb36"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b1"
+  },
+  "trail": "Do Jaskini Mroznej",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "1,0 km",
+  "duration": "30'",
+  "details": "6d94592b1b5d15867714055427481139ceab45b65fee6872b40f544df635f146"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b2"
+  },
+  "trail": "Na Ciemniak z Hali Ornak przez Doline Tomanowa",
+  "difficulty": "http://natatry.pl/images/inne/stars2.png",
+  "distance": "7,0 km",
+  "duration": "3h",
+  "details": "a974730fb742b2beb08ff50739cf301d14d8803ccad4d38954755688e7c5661d"
+},
+{
+  "_id": {
+    "$oid": "65f9d53e81a0f7f0432741b3"
+  },
+  "trail": "Na Polane Chocholowska z Hali Ornak",
+  "difficulty": "http://natatry.pl/images/inne/stars1.png",
+  "distance": "7,7 km",
+  "duration": "2h 25'",
+  "details": "73103b08b2a53ff35730a2ce55f14d5475179706798e2e5ab39884f00151576c"
+}]
